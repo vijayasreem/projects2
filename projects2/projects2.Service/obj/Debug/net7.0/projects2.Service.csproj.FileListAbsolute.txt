@@ -1,0 +1,17 @@
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\bin\Debug\net7.0\projects2.Service.deps.json
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\bin\Debug\net7.0\projects2.Service.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\bin\Debug\net7.0\projects2.Service.pdb
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\bin\Debug\net7.0\projects2.DataAccess.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\bin\Debug\net7.0\projects2.DTO.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\bin\Debug\net7.0\projects2.DTO.pdb
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\bin\Debug\net7.0\projects2.DataAccess.pdb
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\obj\Debug\net7.0\projects2.Service.csproj.AssemblyReference.cache
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\obj\Debug\net7.0\projects2.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\obj\Debug\net7.0\projects2.Service.AssemblyInfoInputs.cache
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\obj\Debug\net7.0\projects2.Service.AssemblyInfo.cs
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\obj\Debug\net7.0\projects2.Service.csproj.CoreCompileInputs.cache
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\obj\Debug\net7.0\projects2.Service.csproj.CopyComplete
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\obj\Debug\net7.0\projects2.Service.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\obj\Debug\net7.0\refint\projects2.Service.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\obj\Debug\net7.0\projects2.Service.pdb
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.Service\obj\Debug\net7.0\ref\projects2.Service.dll

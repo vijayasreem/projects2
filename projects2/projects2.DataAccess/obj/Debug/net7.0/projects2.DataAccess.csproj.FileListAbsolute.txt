@@ -1,0 +1,15 @@
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\bin\Debug\net7.0\projects2.DataAccess.deps.json
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\bin\Debug\net7.0\projects2.DataAccess.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\bin\Debug\net7.0\projects2.DataAccess.pdb
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\bin\Debug\net7.0\projects2.DTO.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\bin\Debug\net7.0\projects2.DTO.pdb
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\obj\Debug\net7.0\projects2.DataAccess.csproj.AssemblyReference.cache
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\obj\Debug\net7.0\projects2.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\obj\Debug\net7.0\projects2.DataAccess.AssemblyInfoInputs.cache
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\obj\Debug\net7.0\projects2.DataAccess.AssemblyInfo.cs
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\obj\Debug\net7.0\projects2.DataAccess.csproj.CoreCompileInputs.cache
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\obj\Debug\net7.0\projects2.DataAccess.csproj.CopyComplete
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\obj\Debug\net7.0\projects2.DataAccess.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\obj\Debug\net7.0\refint\projects2.DataAccess.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\obj\Debug\net7.0\projects2.DataAccess.pdb
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1708\202310051017\projects2\projects2.DataAccess\obj\Debug\net7.0\ref\projects2.DataAccess.dll
